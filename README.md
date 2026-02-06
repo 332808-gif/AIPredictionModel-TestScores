@@ -1,2 +1,2 @@
 # AIPredictionModel-TestScores
-An AI model with the purpose of predicting test scores using hours of sleep and studying. Predictions were nessasary 
+An AI model with the purpose of predicting test scores using hours of sleep and studying. Predictions were nessasary because it could replicate a real world instance for students wondering how they would do on a test. This model takes the number of hours a student sleeps and studies to determine the most realistic test score thet will get. GitHub, Thonny, Pandas, Skit-learn, and Python were all used in this. The model predicted an 84.67% for a student who studied for 6 hours and slept for 8.
